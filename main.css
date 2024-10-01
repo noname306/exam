@@ -1,0 +1,86 @@
+.one{
+    border-radius: 25px;
+    background-color: rgb(150, 176, 241);
+    width: 100%;
+    text-align: center;
+    border: 5px solid red;
+    color: rgb(9, 9, 20);
+}
+
+.two{
+    color: brown;
+}
+.three{
+    color: green;
+}
+.four{
+    background-color: yellow;
+    width: 100%;
+    color: rgb(19, 26, 19);
+    text-align: center;
+}
+.five{
+    text-align: center;
+}
+.six{
+    background-color: yellow;
+    width: 100%;
+    color: rgb(19, 26, 19);
+    text-align: center;
+}
+#text{
+    height: 35px;
+    width: 80%;
+}
+.seven{
+    background-color: rgb(126, 154, 192);
+    width: 200px;
+    height: 30px;
+    color: aliceblue;
+    font-size: large;
+}
+.eight{
+    background-color: yellow;
+    width: 100%;
+    color: rgb(19, 26, 19);
+    text-align: center;
+}
+.nine{
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 80%;
+    height: 100px;
+}
+th{
+    border: 2px solid black;
+}
+.ten{
+    background-color: green;
+    color: aliceblue;
+    text-align: center;
+}
+.eleven{
+    background-color: blue;
+    color: aliceblue;
+    text-align: center;
+}
+.twelve{
+    background-color: red;
+    color: aliceblue;
+    text-align: center;
+}
+.thirteen{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+.forteen{
+    background-color: red;
+    color: aliceblue;
+    text-align: center;
+}
+.fivteen{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
